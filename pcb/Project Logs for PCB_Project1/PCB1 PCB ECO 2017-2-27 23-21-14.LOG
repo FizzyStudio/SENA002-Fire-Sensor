@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Sheet1 Member=*1
+Added Component: Designator=*(LED)
+Added Member To Class: ClassName=Sheet1 Member=Component * YG1006

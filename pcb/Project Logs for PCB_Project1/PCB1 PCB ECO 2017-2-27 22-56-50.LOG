@@ -1,0 +1,13 @@
+Added Component: Designator=*(sh-2.0)
+Added Component: Designator=*(LED)
+Added Component: Designator=C1(0603)
+Added Component: Designator=R1(0603)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_3 Pin=C1-1
+Added Pin To Net: NetName=Net*_3 Pin=R1-1
+Added Net: Name=Net*_3
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
