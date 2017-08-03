@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=*2-1
-Removed Pin From Net: NetName=Net*1_1 Pin=*2-3
-Removed Pin From Net: NetName=Net*1_1 Pin=*2-3
-Change Component Comment : Designator=C1 Old Comment=CAP New Comment=0.01uF
-Change Component Comment : Designator=R1 Old Comment=RES New Comment=1K
-Added Pin To Net: NetName=Net*1_1 Pin=*2-1
-Added Pin To Net: NetName=GND Pin=*2-3
-Added Pin To Net: NetName=GND Pin=*2-3
-Added Room: Name=Sheet1

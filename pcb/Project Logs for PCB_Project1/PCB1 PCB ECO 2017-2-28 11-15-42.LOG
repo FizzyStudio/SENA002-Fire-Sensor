@@ -1,7 +1,0 @@
-Removed Member From Class: ClassName=Sheet1 Member=*
-Added Component: Designator=R3(0603)
-Added Pin To Net: NetName=Net*2_3 Pin=R3-2
-Added Pin To Net: NetName=Net*2_2 Pin=*2-2
-Added Pin To Net: NetName=Net*2_2 Pin=R3-1
-Added Net: Name=Net*2_2
-Added Member To Class: ClassName=Sheet1 Member=Component R3 RES
